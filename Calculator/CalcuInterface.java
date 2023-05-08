@@ -63,24 +63,24 @@ public class CalcuInterface {
 	btnModulo.setBounds(190, 130, 60, 50); btnModulo.setBackground(Color.LIGHT_GRAY); btnModulo.setBorder(blackline);
 	btnDev.setBounds(290, 130, 60, 50); btnDev.setBackground(Color.LIGHT_GRAY); btnDev.setBorder(blackline);
 
-	btn7.setBounds(30, 200, 60, 50); btn7.setBackground(Color.LIGHT_GRAY); btn7.setBorder(blackline);
-	btn8.setBounds(110, 200, 60, 50); btn8.setBackground(Color.LIGHT_GRAY); btn8.setBorder(blackline);
-	btn9.setBounds(190, 200, 60, 50); btn9.setBackground(Color.LIGHT_GRAY); btn9.setBorder(blackline);
-	btnMulti.setBounds(290, 200, 60, 50); btnMulti.setBackground(Color.LIGHT_GRAY); btnMulti.setBorder(blackline);
+	btn7.setBounds(30, 190, 60, 50); btn7.setBackground(Color.LIGHT_GRAY); btn7.setBorder(blackline);
+	btn8.setBounds(110, 190, 60, 50); btn8.setBackground(Color.LIGHT_GRAY); btn8.setBorder(blackline);
+	btn9.setBounds(190, 190, 60, 50); btn9.setBackground(Color.LIGHT_GRAY); btn9.setBorder(blackline);
+	btnMulti.setBounds(290, 190, 60, 50); btnMulti.setBackground(Color.LIGHT_GRAY); btnMulti.setBorder(blackline);
 
-	btn4.setBounds(30, 270, 60, 50); btn4.setBackground(Color.LIGHT_GRAY); btn4.setBorder(blackline);
-	btn5.setBounds(110, 270, 60, 50); btn5.setBackground(Color.LIGHT_GRAY); btn5.setBorder(blackline);
-	btn6.setBounds(190, 270, 60, 50); btn6.setBackground(Color.LIGHT_GRAY); btn6.setBorder(blackline);
-	btnSub.setBounds(290, 270, 60, 50); btnSub.setBackground(Color.LIGHT_GRAY); btnSub.setBorder(blackline);
+	btn4.setBounds(30, 250, 60, 50); btn4.setBackground(Color.LIGHT_GRAY); btn4.setBorder(blackline);
+	btn5.setBounds(110, 250, 60, 50); btn5.setBackground(Color.LIGHT_GRAY); btn5.setBorder(blackline);
+	btn6.setBounds(190, 250, 60, 50); btn6.setBackground(Color.LIGHT_GRAY); btn6.setBorder(blackline);
+	btnSub.setBounds(290, 250, 60, 50); btnSub.setBackground(Color.LIGHT_GRAY); btnSub.setBorder(blackline);
 
-	btn1.setBounds(30, 340, 60, 50); btn1.setBackground(Color.LIGHT_GRAY); btn1.setBorder(blackline);
-	btn2.setBounds(110, 340, 60, 50); btn2.setBackground(Color.LIGHT_GRAY); btn2.setBorder(blackline);
-	btn3.setBounds(190, 340, 60, 50); btn3.setBackground(Color.LIGHT_GRAY); btn3.setBorder(blackline);
-	btnAdd.setBounds(290, 340, 60, 50); btnAdd.setBackground(Color.LIGHT_GRAY); btnAdd.setBorder(blackline);
+	btn1.setBounds(30, 310, 60, 50); btn1.setBackground(Color.LIGHT_GRAY); btn1.setBorder(blackline);
+	btn2.setBounds(110, 310, 60, 50); btn2.setBackground(Color.LIGHT_GRAY); btn2.setBorder(blackline);
+	btn3.setBounds(190, 310, 60, 50); btn3.setBackground(Color.LIGHT_GRAY); btn3.setBorder(blackline);
+	btnAdd.setBounds(290, 310, 60, 50); btnAdd.setBackground(Color.LIGHT_GRAY); btnAdd.setBorder(blackline);
 
-	btn0.setBounds(110, 410, 60, 50); btn0.setBackground(Color.LIGHT_GRAY); btn0.setBorder(blackline);
-	btnDot.setBounds(190, 410, 60, 50); btnDot.setBackground(Color.LIGHT_GRAY); btnDot.setBorder(blackline);
-	btnEquals.setBounds(290, 410, 60, 50); btnEquals.setBackground(Color.LIGHT_GRAY); btnEquals.setBorder(blackline);
+	btn0.setBounds(110, 370, 60, 50); btn0.setBackground(Color.LIGHT_GRAY); btn0.setBorder(blackline);
+	btnDot.setBounds(190, 370, 60, 50); btnDot.setBackground(Color.LIGHT_GRAY); btnDot.setBorder(blackline);
+	btnEquals.setBounds(290, 370, 60, 50); btnEquals.setBackground(Color.LIGHT_GRAY); btnEquals.setBorder(blackline);
 
 	Calcu.add(AIO); Calcu.add(btnAdd);
 	Calcu.add(btn0); Calcu.add(btnSub);
