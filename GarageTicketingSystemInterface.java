@@ -2,7 +2,14 @@ package GarageTicketingSystem;
 
 import javax.swing.*;
 import java.awt.*;
-
+/*public JFrame frame;
+	    public JLabel headingLabel, nameLabel, fromLabel, destinationLabel, dateLabel, classLabel, amountLabel;
+	    public JTextField nameField, dateField, amountField;
+	    public JComboBox fromCombo, destCombo, classCombo;
+	    public JButton submitButton, resetButton;
+	    public String[] from = {"Cruz", "Town", "Tomay", "CampDangwa", "Shilan","Bahong", "Alno"};
+	    public String[] destinations = {"Cruz", "Town", "Tomay", "CampDangwa", "Shilan","Bahong", "Alno"};
+	    public String[] classes = {"Economy", "Business", "First Class"};*/
 
 public class GarageTicketingSystemInterface{
     public JFrame frame;
